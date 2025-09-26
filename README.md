@@ -3,19 +3,19 @@
 Este projeto é uma aplicação de **API RESTful** desenvolvida com **Django Rest Framework (DRF)**.  
 A API gerencia **Eventos**, **Participantes** e **Inscrições**, permitindo cadastrar, consultar, atualizar e remover registros.  
 
-🎯 Objetivo
+### 🎯 Objetivo
 - Este projeto foi desenvolvido com fins de aprendizado em Django Rest Framework, praticando a criação de APIs RESTful com relacionamentos entre modelos.
 
-🚀 Tecnologias utilizadas
+### 🚀 Tecnologias utilizadas
 - Python 3.x
 - Django
 - Django Rest Framework
 - SQLite (banco de dados padrão)
 
 
-⚙️ Como rodar o projeto localmente
+### ⚙️ Como rodar o projeto localmente
 
-### 1. Clone o repositório
+### Clone o repositório
 ```bash
 git clone https://github.com/Georgettig/Projeto-Django-Rest-Framework-Eventos.git
 cd Projeto-Django-Rest-Framework-Eventos
